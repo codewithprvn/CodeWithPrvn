@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <h1 align="center">Hi 👋, I'm Praveen Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Praveen Choudhary</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <img align="center" alt="coading" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithprvn&label=Profile%20views&color=0e75b6&style=flat" alt="codewithprvn" /> </p>
@@ -36,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithprvn&show_icons=true&locale=en" alt="codewithprvn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithprvn&" alt="codewithprvn" /></p>
-</body>
-</html>
