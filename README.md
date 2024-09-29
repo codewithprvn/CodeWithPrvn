@@ -3,18 +3,17 @@
 <img align="center" alt="coading" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithprvn&label=Profile%20views&color=0e75b6&style=flat" alt="codewithprvn" /> </p>
 
-- 🔭 I’m currently working on **Navlin Product Software**
+🔭 I’m currently working on **Navlin Product Software** at Eversana as a Frontend Developer
 
-- 🌱 I’m currently learning **Next.js**
+📄 Know about my experiences Portfolio - https://codewithprvn.netlify.app/
 
 - 👨‍💻 All of my projects are available at [https://codewithprvn.netlify.app/](https://codewithprvn.netlify.app/)
 
-- 💬 Ask me about **🔍 I am always ready to learn new frameworks and technologies to keep myself up-to-date with the latest market trends. 🌐 Let's Connect :)**
+- 💬 🔍 I am always ready to learn new frameworks and technologies to keep myself up-to-date with the latest market trends. 
+🌐 Let's Connect :)
 
-- 📫 How to reach me **praveenc8049@gmail.com**
-
-- 📄 Know about my experiences [I have 2+ years of experience in implementing Front End Interface and development.](I have 2+ years of experience in implementing Front End Interface and development.)
-
+- Reach me **praveenc8049@gmail.com**
+I have 2+ years of experience in implementing Front End Interface and development.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/praveenchoudhary95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveenchoudhary95" height="30" width="40" /></a>
